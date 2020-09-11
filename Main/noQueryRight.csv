@@ -1,0 +1,27 @@
+LinkServerName ,DBName,MonthDB,TableName,Type,query_string
+BalanceN191R,_CasinoBalanceCenter_BalanceMG,2007,Mg2SRawDataReal,22,select top 1 * from BalanceN191R._CasinoBalanceCenter_BalanceMG2007.dbo.vw_Mg2SRawDataReal
+BalanceN191R,_CasinoBalanceCenter_BalanceMG,2007,Mg2SRawDataSlot,23,select top 1 * from BalanceN191R._CasinoBalanceCenter_BalanceMG2007.dbo.vw_Mg2SRawDataSlot
+BalanceN191R,_CasinoBalanceCenter_BalanceMG,2007,Mg2SRawDataHtml5,24,select top 1 * from BalanceN191R._CasinoBalanceCenter_BalanceMG2007.dbo.vw_Mg2SRawDataHtml5
+BalanceN192R,_CasinoBalanceCenter_BalanceC,,SaRawDataReal,97,select top 1 * from BalanceN192R._CasinoBalanceCenter_BalanceC.dbo.vw_SaRawDataReal
+BalanceN192R,_CasinoBalanceCenter_BalanceC,,SaRawDataSlot,98,select top 1 * from BalanceN192R._CasinoBalanceCenter_BalanceC.dbo.vw_SaRawDataSlot
+BalanceN192R,_CasinoBalanceCenter_BalanceC,,SaRawDataFish,99,select top 1 * from BalanceN192R._CasinoBalanceCenter_BalanceC.dbo.vw_SaRawDataFish
+BalanceN192R,_CasinoBalanceCenter_BalanceC,,JsRawDataSlot,106,select top 1 * from BalanceN192R._CasinoBalanceCenter_BalanceC.dbo.vw_JsRawDataSlot
+BalanceN192R,_CasinoBalanceCenter_BalanceC,,JsRawDataFish,107,select top 1 * from BalanceN192R._CasinoBalanceCenter_BalanceC.dbo.vw_JsRawDataFish
+BalanceN192R,_CasinoBalanceCenter_BalanceC,,JsRawDataBoard,108,select top 1 * from BalanceN192R._CasinoBalanceCenter_BalanceC.dbo.vw_JsRawDataBoard
+BalanceN192R,_CasinoBalanceCenter_BalanceC,,MtRawDataSlot,112,select top 1 * from BalanceN192R._CasinoBalanceCenter_BalanceC.dbo.vw_MtRawDataSlot
+BalanceN192R,_CasinoBalanceCenter_BalanceC,,MtRawDataFish,113,select top 1 * from BalanceN192R._CasinoBalanceCenter_BalanceC.dbo.vw_MtRawDataFish
+BalanceN192R,_CasinoBalanceCenter_BalanceC,,MtRawDataBoard,114,select top 1 * from BalanceN192R._CasinoBalanceCenter_BalanceC.dbo.vw_MtRawDataBoard
+BalanceN192R,_CasinoBalanceCenter_BalanceC,,ThRawDataBoard,118,select top 1 * from BalanceN192R._CasinoBalanceCenter_BalanceC.dbo.vw_ThRawDataBoard
+BalanceN192R,_CasinoBalanceCenter_BalanceC,,ThRawDataFish,119,select top 1 * from BalanceN192R._CasinoBalanceCenter_BalanceC.dbo.vw_ThRawDataFish
+BalanceN192R,_CasinoBalanceCenter_BalanceC,,DtRawDataEsport,129,select top 1 * from BalanceN192R._CasinoBalanceCenter_BalanceC.dbo.vw_DtRawDataEsport
+BalanceN192R,_CasinoBalanceCenter_BalanceC,,DtRawDataBoard,130,select top 1 * from BalanceN192R._CasinoBalanceCenter_BalanceC.dbo.vw_DtRawDataBoard
+BalanceN192R,_CasinoBalanceCenter_BalanceC,,DtRawDataSlot,131,select top 1 * from BalanceN192R._CasinoBalanceCenter_BalanceC.dbo.vw_DtRawDataSlot
+BalanceN192R,_CasinoBalanceCenter_BalanceC,,VgRawDataBoard,132,select top 1 * from BalanceN192R._CasinoBalanceCenter_BalanceC.dbo.vw_VgRawDataBoard
+BalanceN192R,_CasinoBalanceCenter_BalanceC,,VgRawDataFish,133,select top 1 * from BalanceN192R._CasinoBalanceCenter_BalanceC.dbo.vw_VgRawDataFish
+BalanceN192R,_CasinoBalanceCenter_BalanceC,,TogRawDataBoard,134,select top 1 * from BalanceN192R._CasinoBalanceCenter_BalanceC.dbo.vw_TogRawDataBoard
+BalanceN192R,_CasinoBalanceCenter_BalanceC,,TogRawDataSlot,135,select top 1 * from BalanceN192R._CasinoBalanceCenter_BalanceC.dbo.vw_TogRawDataSlot
+BalanceN192R,_CasinoBalanceCenter_BalanceC,,LEGRawDataSlot,141,select top 1 * from BalanceN192R._CasinoBalanceCenter_BalanceC.dbo.vw_LEGRawDataSlot
+BalanceN192R,_CasinoBalanceCenter_BalanceC,,LEGRawDataBoard,142,select top 1 * from BalanceN192R._CasinoBalanceCenter_BalanceC.dbo.vw_LEGRawDataBoard
+BalanceN192R,_CasinoBalanceCenter_BalanceC,,LEGRawDataFish,143,select top 1 * from BalanceN192R._CasinoBalanceCenter_BalanceC.dbo.vw_LEGRawDataFish
+BalanceN192R,_CasinoBalanceCenter_BalanceC,,Im2RawDataSlot,150,select top 1 * from BalanceN192R._CasinoBalanceCenter_BalanceC.dbo.vw_Im2RawDataSlot
+BalanceN192R,_CasinoBalanceCenter_BalanceC,,Im2RawDataBoard,151,select top 1 * from BalanceN192R._CasinoBalanceCenter_BalanceC.dbo.vw_Im2RawDataBoard

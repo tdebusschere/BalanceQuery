@@ -1,0 +1,17 @@
+LinkServerName ,DBName,MonthDB,TableName,Type,query_string
+Balance191R,_CasinoBalanceCenter_BalanceMG,2007,Mg2SRawDataReal,22,select top 1 * from Balance191R._CasinoBalanceCenter_BalanceMG2007.dbo.vw_Mg2SRawDataReal
+Balance191R,_CasinoBalanceCenter_BalanceMG,2007,Mg2SRawDataSlot,23,select top 1 * from Balance191R._CasinoBalanceCenter_BalanceMG2007.dbo.vw_Mg2SRawDataSlot
+Balance191R,_CasinoBalanceCenter_BalanceMG,2007,Mg2SRawDataHtml5,24,select top 1 * from Balance191R._CasinoBalanceCenter_BalanceMG2007.dbo.vw_Mg2SRawDataHtml5
+Balance193R,_CasinoBalanceCenter_BalanceD,,SgRawDataSlot,39,select top 1 * from Balance193R._CasinoBalanceCenter_BalanceD.dbo.vw_SgRawDataSlot
+Balance193R,_CasinoBalanceCenter_BalanceD,,LtRawDataLottery,121,select top 1 * from Balance193R._CasinoBalanceCenter_BalanceD.dbo.vw_LtRawDataLottery
+Balance193R,_CasinoBalanceCenter_BalanceD,,JtnPgsRawDataSlot,123,select top 1 * from Balance193R._CasinoBalanceCenter_BalanceD.dbo.vw_JtnPgsRawDataSlot
+Balance193R,_CasinoBalanceCenter_BalanceD,,DhRawDataBoard,126,select top 1 * from Balance193R._CasinoBalanceCenter_BalanceD.dbo.vw_DhRawDataBoard
+Balance193R,_CasinoBalanceCenter_BalanceD,,BfRawDataLottery,128,select top 1 * from Balance193R._CasinoBalanceCenter_BalanceD.dbo.vw_BfRawDataLottery
+Balance193R,_CasinoBalanceCenter_BalanceD,,VtRawDataSlot,138,select top 1 * from Balance193R._CasinoBalanceCenter_BalanceD.dbo.vw_VtRawDataSlot
+Balance193R,_CasinoBalanceCenter_BalanceD,,SeRawDataReal,139,select top 1 * from Balance193R._CasinoBalanceCenter_BalanceD.dbo.vw_SeRawDataReal
+Balance193R,_CasinoBalanceCenter_BalanceD,,GhRawDataSlot,140,select top 1 * from Balance193R._CasinoBalanceCenter_BalanceD.dbo.vw_GhRawDataSlot
+Balance193R,_CasinoBalanceCenter_BalanceD,,LbRawDataLottery,145,select top 1 * from Balance193R._CasinoBalanceCenter_BalanceD.dbo.vw_LbRawDataLottery
+Balance193R,_CasinoBalanceCenter_BalanceD,,GmgRawDataBoard,146,select top 1 * from Balance193R._CasinoBalanceCenter_BalanceD.dbo.vw_GmgRawDataBoard
+Balance193R,_CasinoBalanceCenter_BalanceD,,FbgRawDataSlot,147,select top 1 * from Balance193R._CasinoBalanceCenter_BalanceD.dbo.vw_FbgRawDataSlot
+Balance193R,_CasinoBalanceCenter_BalanceD,,LlRawDataLottery,149,select top 1 * from Balance193R._CasinoBalanceCenter_BalanceD.dbo.vw_LlRawDataLottery
+Balance193R,_CasinoBalanceCenter_BalanceD,,SyRawDataLottery,152,select top 1 * from Balance193R._CasinoBalanceCenter_BalanceD.dbo.vw_SyRawDataLottery
